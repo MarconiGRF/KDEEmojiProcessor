@@ -3,7 +3,7 @@ import os
 from pathlib import Path
 
 homePath = os.getenv('HOME') + '/'
-KDEEmojiProcessingPath = 'KDEEmojiProcessing/'
+KDEEmojiProcessingPath = 'KDEEmojiProcessor/'
 KDEEmoticonsBasePath = '.local/share/emoticons/'
 iOS = 'iOS/'
 
