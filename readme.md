@@ -23,7 +23,7 @@ Based on [Unicode's Full Emoji List page](http://www.unicode.org/emoji/charts/fu
     ```
 
 - ### 4 - Get Unicode Data
-    - #### 4.1 - Access the [Unicode's Full Emoji List page](http://www.unicode.org/emoji/charts/full-emoji-list.html), load the entire page (it takes a while, and are around 1700 emoji rows).
+    - #### 4.1 - Access the [Unicode's Full Emoji List page](http://www.unicode.org/emoji/charts/full-emoji-list.html), load the entire page (it takes a while, there are around 1700 emoji rows and the HTML file has ~27MB).
     - #### 4.2 - When finished loading the page, open the HTML source code, copy the entire `<table>` element, save into the repo's directory as `unicodeEmojis.html`
 
 - ### 5 - Run the script and watch magic happen.
