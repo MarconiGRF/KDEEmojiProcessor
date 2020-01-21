@@ -1,7 +1,7 @@
 # KDE Emoticon to Emoji Processor
 
 ## Overview
-This is Python 3 a script to enable Emoji support on KDE Plasma < 5.17 desktop environment.
+This is a Python 3 script to enable Emoji support on KDE Plasma < 5.17 desktop environment.
 
 Based on [Unicode's Full Emoji List page](http://www.unicode.org/emoji/charts/full-emoji-list.html), it will generate the PNGs and correct names for the full list of emojis using the Emoji's name and Base64 Hash to generate every file and place them into correct KDE Emoticon path.
 
